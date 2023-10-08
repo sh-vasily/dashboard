@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashboard", "Dashboard\Dashboard.csproj", "{75C06AAA-180E-4EDF-84C8-7A6243C7A13B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ContainerBuilderExtensions", "ContainerBuilderExtensions\ContainerBuilderExtensions.fsproj", "{2006366F-8FC4-4D95-96FE-A57B093A6D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75C06AAA-180E-4EDF-84C8-7A6243C7A13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75C06AAA-180E-4EDF-84C8-7A6243C7A13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75C06AAA-180E-4EDF-84C8-7A6243C7A13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75C06AAA-180E-4EDF-84C8-7A6243C7A13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2006366F-8FC4-4D95-96FE-A57B093A6D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2006366F-8FC4-4D95-96FE-A57B093A6D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2006366F-8FC4-4D95-96FE-A57B093A6D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2006366F-8FC4-4D95-96FE-A57B093A6D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
